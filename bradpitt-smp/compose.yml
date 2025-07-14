@@ -9,10 +9,8 @@ services:
 
     environment:
       EULA: "TRUE"
-      TYPE: "MODRINTH"
-      VERSION: "LATEST"
-      MODRINTH_MODPACK: "https://modrinth.com/modpack/bradpittsmp"
-      MODRINTH_LOADER: "fabric"
+      VERSION: "1.21.1"
+      PACKWIZ_URL: "https://raw.githubusercontent.com/markusevanger/minecraft-server/refs/heads/main/bradpitt-smp/modpack/pack.toml"
       MEMORY: "16384M"
       MAX_PLAYERS: "69"
       MOTD: "BRAD PITT SMP | THE ONE THE ONLY"
