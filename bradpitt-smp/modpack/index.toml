@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "install-mods.nu"
-hash = "c97e4c248134c060a56a9a6fe48fd991e78e7fcb5b8cc9804b66298b15adae84"
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4ca8b963965342aafdfe251e5306259eb9cf459d43e46d9695974dcff01465aa"
 metafile = true
