@@ -1,0 +1,13 @@
+name = "bradpitt-smp"
+author = "Markus Evanger"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f103a5efce06b10f0fb5b2f5bedda296bf4aa812f76d2e0d4dba8c3794ff5915"
+
+[versions]
+fabric = "0.16.14"
+minecraft = "1.21.7"

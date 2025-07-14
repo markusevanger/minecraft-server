@@ -1,0 +1,9 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "c15623d9c37146f0c534ef8958530a444e727c90adf220d188df691a488eb834"
+
+[[files]]
+file = "compose.yml"
+hash = "2318100372e6c429ee5a93a5642448ec1e9aceffa47ff2a4fe1d93673c1782f1"
