@@ -10,6 +10,7 @@ services:
     environment:
       EULA: "TRUE"
       VERSION: "1.21.1"
+      TYPE: "NEOFORGE"
       PACKWIZ_URL: "https://markusevanger.github.io/minecraft-server/bradpitt-smp/modpack/pack.toml"
       MEMORY: "16384M"
       MAX_PLAYERS: "69"
