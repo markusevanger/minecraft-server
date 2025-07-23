@@ -1,6 +1,7 @@
 services:
   mc:
     image: itzg/minecraft-server:latest
+    restart: unless-stopped
     tty: true
     stdin_open: true
     ports:
@@ -16,8 +17,9 @@ services:
       MAX_PLAYERS: "69"
       MOTD: "BRAD PITT SMP | THE ONE THE ONLY"
       DIFFICULTY: "2"
-      VIEW_DISTANCE: "16"
+      VIEW_DISTANCE: "10"
       SPAWN_PROTECTION: "0"
+      USE_AIKARS_FLAGS: "true"
       OPS: |-
         Evangarr
     volumes:
