@@ -66,6 +66,11 @@ hash = "d259afaed44e7be250962740cb08718bd87c8f3c26beefd54f5b5201d89c36b1"
 metafile = true
 
 [[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "cf0633c12a953d5e36e7c4af087753ef0f5970073a5496a2f11da195f8f60f1d"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "3664404b7937cbb3f9e1b0a4d6f5d83ffa94daf99a660d019dde9baf678aaf8b"
 metafile = true
@@ -73,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "88c8a2ba69aca58b0365584317660e6f0cd9d22daaa5ab2c5d7c3568a1d6d4d2"
+metafile = true
+
+[[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "7be63eaec6a70605f2f21cc30f0889fb27978c2e2fe62ee4584210502289e77d"
 metafile = true
 
 [[files]]
@@ -151,6 +161,11 @@ hash = "5d70a7f11cb030b3101b76b9a0e598a4adf30cddec03a2878e1408e95bc55f3b"
 metafile = true
 
 [[files]]
+file = "mods/emojiful.pw.toml"
+hash = "f217d51e614f0a27228a88ac581cb4e9dd26b4c549a55c79cd9c4e054b2450c3"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "97d04ad98f289dad38ac1a4f0f8abffaebd10060a92b4424b1c99fea34046eeb"
 metafile = true
@@ -163,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/fast-paintings.pw.toml"
 hash = "031bc7255080057c49fc70e619f08c7290a403a86a45472547a5ec813e4b7fb0"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
 metafile = true
 
 [[files]]
@@ -228,6 +248,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "408d4fa2ad5934dcc8c27412222bd78c0b2eb52f41dbc8c92918c639146973a6"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "908cbf89e774b114d1dc3aef4806c9d2d782cfd314be001718bb690af9b074a8"
 metafile = true
 
 [[files]]
@@ -338,6 +363,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "49d48cbe1453c185cc4eb55527e9f5ff933221c15e3441d229cda11c56781e0e"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "8790d20b394057a27a980ac3224729ae975e8e058ddfb1023967171c0906144a"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "8ec05c13348d82feee851bf1a5201d7aa5ef9e2c4cf6e12f5d5e1b39d0de4cff"
 metafile = true
 
 [[files]]
