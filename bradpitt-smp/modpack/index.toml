@@ -156,11 +156,6 @@ hash = "0b380e24e46e328c362bda7cff892c5b0e471789ca8c429fd2a588eaf63b8712"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "c90d5e107972681f9fe4fdca74a18c460becb383ab1fa18da85a269d6992e2ad"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "c4027b8071cc6dfc7f0d49e702a5e25b1e36841e50acba1e699f308be156b8f2"
 metafile = true
