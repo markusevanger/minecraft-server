@@ -3,8 +3,8 @@ filename = "fzzy_config-0.7.1+1.21+neoforge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "646cb73ff1b33aa4fd08c9fb4b7d92496f81f6f9"
+hash-format = "sha256"
+hash = "4d0f489cea17e4175855b7aa2374f7be9415842fe9fe869700b7c851c9f003e1"
 mode = "metadata:curseforge"
 
 [update]

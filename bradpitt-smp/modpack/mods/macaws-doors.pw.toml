@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/kNxa8z3e/versions/4EOKyL43/mcw-doors-1.1.2-mc1.21.1neoforge.jar"
-hash-format = "sha512"
-hash = "8589d05dca9b39e49d1cc4f18eedccc990ad9670eb1089e6c20f6f3a9384c5968b0147b94c824a5c2355957d34f7be1058fda1525d21cdc350c8422b8734ac39"
+hash-format = "sha256"
+hash = "d63cca96d7dca9af69ec6461b55986eba8fffc8d18dd0a8e8d9ca5536ee2cceb"
 
 [update]
 [update.modrinth]

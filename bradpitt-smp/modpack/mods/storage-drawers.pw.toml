@@ -3,8 +3,8 @@ filename = "Storage Drawers-neoforge-1.21-13.8.9.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "23f8298c6137dd1a9ce896641cf90dd30d20948e"
+hash-format = "sha256"
+hash = "486f2b4d5125580591e23758a4c6513e543a64045c16e735205b32e82a9daad5"
 mode = "metadata:curseforge"
 
 [update]

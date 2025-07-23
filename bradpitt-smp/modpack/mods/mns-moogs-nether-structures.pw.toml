@@ -4,8 +4,8 @@ side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/nGUXvjTa/versions/yvdm0ME6/mns-1.0.8-1.21.jar"
-hash-format = "sha512"
-hash = "140f278fb336b2b300c03a60c9f77e8db29be8b7d06e7cd88443b73ea110a8059d1172c72e1b1758741b7688f50c071f2c33b132ff112ee5c90095ac90fc51c8"
+hash-format = "sha256"
+hash = "7d70db2353ab6630bb8f74fb9874af5e14df26f02d58b69e4f9e5e4113101256"
 
 [update]
 [update.modrinth]

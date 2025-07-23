@@ -3,8 +3,8 @@ filename = "VisualWorkbench-v21.1.0-1.21.1-NeoForge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "bc6d7f6cb08f4700d90bd451df3b22a997cb9571"
+hash-format = "sha256"
+hash = "08aa68b1b2324963576796b4dc0d4f374ea44ae88201d3c28673ddaa455b0638"
 mode = "metadata:curseforge"
 
 [update]

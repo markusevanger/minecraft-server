@@ -3,8 +3,8 @@ filename = "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "07452242e389975e8a88b97066f4bae6a4ebe574"
+hash-format = "sha256"
+hash = "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b"
 mode = "metadata:curseforge"
 
 [update]

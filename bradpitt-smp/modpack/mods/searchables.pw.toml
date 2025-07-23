@@ -3,8 +3,8 @@ filename = "Searchables-neoforge-1.21.1-1.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5b8a0b43a474c066371b2e16f9bfb88622552a74"
+hash-format = "sha256"
+hash = "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68"
 mode = "metadata:curseforge"
 
 [update]

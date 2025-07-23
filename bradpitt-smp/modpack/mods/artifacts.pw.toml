@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/P0Mu4wcQ/versions/GlP0QYZf/artifacts-neoforge-13.0.6.jar"
-hash-format = "sha512"
-hash = "d09fb46ada91a4eacfe04e41630067a19f41157c6c5f715033f99c7c7710518564bc419c65d6ba2c6fc4cfd3880627261f1f5fb4f7383da31c917395ba23f408"
+hash-format = "sha256"
+hash = "957d6a52e761cb586375604be66b5e57b21a9f2a026054c79169a6f3e5f591c4"
 
 [update]
 [update.modrinth]

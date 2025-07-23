@@ -3,8 +3,8 @@ filename = "supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "21c75db63ca1d8b8972a94a71c9c7ec0549e1be0"
+hash-format = "sha256"
+hash = "6f43f2fa77968569927edefde859f1c46d7317c5519cdcefea729e9b84342420"
 mode = "metadata:curseforge"
 
 [update]

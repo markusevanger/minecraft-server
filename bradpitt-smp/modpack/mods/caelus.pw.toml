@@ -3,8 +3,8 @@ filename = "caelus-neoforge-7.0.1+1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e4c2e1af4e3082d68f7df75f7c8ce30116d71515"
+hash-format = "sha256"
+hash = "432a645557f29de159d9edde2fd109f8e3b32ff30895b4fede04ee5f1a1a682f"
 mode = "metadata:curseforge"
 
 [update]

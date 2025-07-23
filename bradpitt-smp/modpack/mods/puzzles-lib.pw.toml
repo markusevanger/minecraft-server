@@ -3,8 +3,8 @@ filename = "PuzzlesLib-v21.1.36-1.21.1-NeoForge.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d290ef52d4977a6fd33d9ba1ec40e12914e59dce"
+hash-format = "sha256"
+hash = "7be6db8633d27a928ab986fab52d4bb882e6b50d3087392fb6e1403d2d62edca"
 mode = "metadata:curseforge"
 
 [update]

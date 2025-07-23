@@ -3,8 +3,8 @@ filename = "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "e739d69b2de31ca8c0cb4691ab08e823f153bc44"
+hash-format = "sha256"
+hash = "7a47d69b5530704690d5a5f0726cd74a2d6c57df17dd4a8589c4ab5212f91460"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "forgified-fabric-api-0.115.6+2.1.1+1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "60581fd85035820ec8d0e3e5b4d817db5021e638"
+hash-format = "sha256"
+hash = "bb8fb425fdf2155efd8d74869256327a1b315603c2493b791462eaefb70b48b4"
 mode = "metadata:curseforge"
 
 [update]

@@ -3,8 +3,8 @@ filename = "ars_additions-1.21.1-21.2.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4db5d434a6239306feb1e1b80670352370a9c177"
+hash-format = "sha256"
+hash = "dce0ca8821ee2904b8408f78a5feaaf78fbffcc96262678bc4ad18a61219d2a5"
 mode = "metadata:curseforge"
 
 [update]

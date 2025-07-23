@@ -3,8 +3,8 @@ filename = "cyclopscore-1.21.1-neoforge-1.26.1-786.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "153ce580c6d06f541db3e52ecf88f59e5cba00ec"
+hash-format = "sha256"
+hash = "25c9cf185341ba013570345570b00f3a3ae126fbd09eae52cadb002c4f76d549"
 mode = "metadata:curseforge"
 
 [update]

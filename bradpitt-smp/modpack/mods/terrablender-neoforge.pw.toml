@@ -3,8 +3,8 @@ filename = "TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "2016eed89eac0eb0510d2190c3b0b80bf4346191"
+hash-format = "sha256"
+hash = "edb34c388fe17ea88d0a7fd11174bbf8ae8f28a4c8ce886f1bf9a5cf0ebc36b8"
 mode = "metadata:curseforge"
 
 [update]

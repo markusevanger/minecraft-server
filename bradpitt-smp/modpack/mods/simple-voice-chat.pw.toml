@@ -3,8 +3,8 @@ filename = "voicechat-neoforge-1.21.1-2.5.34.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1d7c5fe0040b8366c606e8e878d868b23973a538"
+hash-format = "sha256"
+hash = "ac6a18ceababd94879d3198827de828c50dabca724016d71adaffea83a2e1a0a"
 mode = "metadata:curseforge"
 
 [update]

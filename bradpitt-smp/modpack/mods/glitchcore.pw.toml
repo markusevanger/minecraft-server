@@ -3,8 +3,8 @@ filename = "GlitchCore-neoforge-1.21.1-2.1.0.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8bce11b0b5233146051bb7b7a227247e03fe88b2"
+hash-format = "sha256"
+hash = "9362e2faacc6c864a91c5d0f452305fe7a496aa6c91131af63d021f1baa773a7"
 mode = "metadata:curseforge"
 
 [update]

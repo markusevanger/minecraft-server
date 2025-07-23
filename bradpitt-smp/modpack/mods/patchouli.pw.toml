@@ -3,8 +3,8 @@ filename = "Patchouli-1.21-88-NEOFORGE.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cf0f16567d22588eaa75415bb5a5d1d91d414a42"
+hash-format = "sha256"
+hash = "f1ff6a72a12588102a49ed6cb11b22674925ce317cfaac879291a9ccf6bc9cdb"
 mode = "metadata:curseforge"
 
 [update]

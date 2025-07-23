@@ -3,8 +3,8 @@ filename = "simplyswords-neoforge-1.61.3-1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "cbeb2f75f4dc80e47bfdc07af83a427b9dda5c1b"
+hash-format = "sha256"
+hash = "885bf6040e4a71b049393cfb8ae17ad5b6abb3a6e85871ede284106484ee90bd"
 mode = "metadata:curseforge"
 
 [update]

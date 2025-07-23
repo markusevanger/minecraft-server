@@ -3,8 +3,8 @@ filename = "BiomesOPlenty-neoforge-1.21.1-21.1.0.12.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "c4ee3d20a7c20cb6eaff58ed1eddc2d6550532a6"
+hash-format = "sha256"
+hash = "c0b9c5086676549ecf1f1b687e2aacfb8279cd54e273c960ea68bff3e2841388"
 mode = "metadata:curseforge"
 
 [update]

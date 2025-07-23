@@ -3,8 +3,8 @@ filename = "comforts-neoforge-9.0.4+1.21.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3170b2e32cf60df49e7e8ff13bc0b64315170197"
+hash-format = "sha256"
+hash = "44bd6844dbba3a2e2d9b1e382e9ad7e00fc2956bb36e065d634c9ba0bfde0e9a"
 mode = "metadata:curseforge"
 
 [update]

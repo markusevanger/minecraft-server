@@ -3,8 +3,8 @@ filename = "Controlling-neoforge-1.21.1-19.0.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "8a34424fc1428778be2fdbfa4da67b21b70bcbfe"
+hash-format = "sha256"
+hash = "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0"
 mode = "metadata:curseforge"
 
 [update]

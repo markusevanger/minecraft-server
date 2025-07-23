@@ -3,8 +3,8 @@ filename = "ars_elemental-1.21.1-0.7.5.0.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "f905027b3f9264a1d7449b00d673f813223f346b"
+hash-format = "sha256"
+hash = "b9729ac8e88703808768bb87c6c8714d07986a8758f477742f76f6cc839f6970"
 mode = "metadata:curseforge"
 
 [update]
