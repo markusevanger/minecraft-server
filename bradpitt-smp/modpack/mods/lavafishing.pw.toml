@@ -1,0 +1,13 @@
+name = "Lava Fishing"
+filename = "lavafishing-1.21.1-1.2.12-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "53ed81216248b6a38a420d9bdf4a81cd7c4f85cb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6449196
+project-id = 1035887

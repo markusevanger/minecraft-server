@@ -3,8 +3,8 @@ filename = "ars_technica-1.21.1-2.3.0-b1.jar"
 side = "both"
 
 [download]
-hash-format = "sha256"
-hash = "ff38ef493b222dc5fb51573d273780064904eb0b3b412d98fcc3a137bfef7edd"
+hash-format = "sha1"
+hash = "e30a2f0c8ca3ed23a3e7654a69711a3dc3f56663"
 mode = "metadata:curseforge"
 
 [update]
