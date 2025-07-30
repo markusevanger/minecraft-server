@@ -12,6 +12,7 @@ services:
       EULA: "TRUE"
       VERSION: "1.21.1"
       TYPE: "NEOFORGE"
+      NEOFORGE_VERSION: "21.1.194"
       PACKWIZ_URL: "https://markusevanger.github.io/minecraft-server/bradpitt-smp/modpack/pack.toml"
       MEMORY: "16384M"
       MAX_PLAYERS: "69"
