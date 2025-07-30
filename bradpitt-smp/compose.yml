@@ -14,7 +14,7 @@ services:
       TYPE: "NEOFORGE"
       NEOFORGE_VERSION: "21.1.194"
       PACKWIZ_URL: "https://markusevanger.github.io/minecraft-server/bradpitt-smp/modpack/pack.toml"
-      MEMORY: "16384M"
+      MEMORY: "12288M"
       MAX_PLAYERS: "69"
       MOTD: "BRAD PITT SMP | THE ONE THE ONLY"
       DIFFICULTY: "2"
